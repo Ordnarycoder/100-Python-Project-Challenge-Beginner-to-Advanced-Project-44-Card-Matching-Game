@@ -18,7 +18,7 @@ This is a simple and fun card matching (memory) game built using Python and the 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ordnarycoder/100-Python-Project-Challenge-Beginner-to-Advanced-Project-44-Card-Matching-Game
    ```
 
 2. **Navigate to the project directory:**
